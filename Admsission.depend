@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1664813541 source:c:\users\abraham bill\documents\survey c++\admsission\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
